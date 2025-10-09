@@ -21,7 +21,7 @@ I build tools, apps, and experiments with a focus on **performance**, **scalabil
 
 ## 📈 GitHub Stats
 ![Vryptt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vryptt&show_icons=true&theme=tokyonight)  
-[Vryptt's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vryptt&layout=compact&theme=tokyonight&hide_border=true)
+![Vryptt's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Vryptt&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
